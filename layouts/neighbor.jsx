@@ -107,7 +107,7 @@ const NeighborLayout = ({ children }) => {
             <div className="grid-row grid-gap">
               <div className="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
                 <div className="mobile-lg:grid-col-auto">
-                  <h3 className="usa-footer__logo-heading">Neighbor Express</h3>
+                  <h3 className="usa-footer__logo-heading">Neighbor Army</h3>
                 </div>
               </div>
               <div className="usa-footer__contact-links mobile-lg:grid-col-6">
