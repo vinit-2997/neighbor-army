@@ -117,7 +117,7 @@ const NeighborLayout = ({ children }) => {
                     <div className="grid-col-auto">
                       <form className="usa-form">
                         {footer.body}
-                        <label className="usa-label" htmlFor="options">Choose Language</label>
+                        {/* <label className="usa-label" htmlFor="options">Choose Language</label> */}
                         {/* <select onChange={(e) => setLanguage(e.target.value)} className="usa-select" name="options" id="options">
                           {languages.map(language => (
                             <option key={language.key} selected={state.language === language.key} value={language.key}>{language.name}</option>
